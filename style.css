@@ -1,7 +1,9 @@
 /*This is a comment*/
 body{
-background-color:orange;
+background-image:url("sativa.png");
 font-family:Helvetica;
-color:white;
-float:center;
+color:black;
+}
+h1{
+text-align:center;
 }
